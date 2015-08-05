@@ -10,6 +10,7 @@ Here are some past presentations made with this desk:
 
 | Presenter | Event | Date | Contact |
 | --------- | ----- | ---- | ------- |
+| David Cifuentes & Santiago Carrillo | [Bogotá GDG](http://www.meetup.com/gdgbogota/events/223938479/) | August 4, 2015 | dev@gdgbogota.co |
 | Mike Koss | [Seattle GDG](https://plus.sandbox.google.com/events/cp5b162fccbtrk4l3ah2blb5je8) | April 20, 2015 | koss@firebase.com |
 | Jacob Wenger | GDG Leads Summit | May 27, 2015 | jacob@firebase.com |
 
@@ -21,7 +22,7 @@ This repo uses npm and Grunt to install dependencies, build the deck, run tests,
 server for the content. To get started, run the following commands:
 
 ```bash
-$ git clone git@github.com:firebase/firebase-intro-presentation.git
+$ git clone https://github.com/gdgbogota/firebase-intro-presentation.git
 $ cd firebase-intro-presentation         # go to the firebase-intro directory
 $ npm install -g grunt-cli               # globally install grunt task runner
 $ npm install                            # install local npm build / test dependencies
